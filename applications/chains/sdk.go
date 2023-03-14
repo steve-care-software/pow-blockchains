@@ -6,5 +6,5 @@ import (
 
 // Application represents the chain's application
 type Application interface {
-	CalculateDifficulty(block blocks.Block) (uint, error)
+	CalculateNextDifficulty(block blocks.Block) (uint, error)
 }
