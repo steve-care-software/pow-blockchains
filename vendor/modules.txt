@@ -3,6 +3,11 @@
 github.com/juju/fslock
 # github.com/steve-care-software/blockchains v0.0.0-20230314171642-b591c788b721
 ## explicit; go 1.19
+github.com/steve-care-software/blockchains/applications
+github.com/steve-care-software/blockchains/applications/blocks
+github.com/steve-care-software/blockchains/applications/peers
+github.com/steve-care-software/blockchains/applications/transactions
+github.com/steve-care-software/blockchains/domain
 github.com/steve-care-software/blockchains/domain/blocks
 github.com/steve-care-software/blockchains/domain/transactions
 # github.com/steve-care-software/databases v0.0.0-20230313225431-45808d3bbe71
