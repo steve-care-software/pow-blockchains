@@ -1,5 +1,7 @@
 github.com/juju/fslock v0.0.0-20160525022230-4d5c94c67b4b h1:FQ7+9fxhyp82ks9vAuyPzG0/vVbWwMwLJ+P6yJI5FN8=
 github.com/juju/fslock v0.0.0-20160525022230-4d5c94c67b4b/go.mod h1:HMcgvsgd0Fjj4XXDkbjdmlbI505rUPBs6WBMYg2pXks=
+github.com/steve-care-software/blockchains v0.0.0-20230314171642-b591c788b721 h1:pdT0FWIVFW0Ni+ChgVBql4JJtLDpxe9fqs9jVJ1Bpp0=
+github.com/steve-care-software/blockchains v0.0.0-20230314171642-b591c788b721/go.mod h1:AU2b5uTHxqWq69cpGt2je/ZcMKbvKXTjQpsbGTmxW3w=
 github.com/steve-care-software/databases v0.0.0-20230313225431-45808d3bbe71 h1:/SCflCsC9byvTIHdLMVtCyoDR8raCp0H+RQGNDO8Dqk=
 github.com/steve-care-software/databases v0.0.0-20230313225431-45808d3bbe71/go.mod h1:Up2IfKgTJpVHXJAdwYQnDINIUj84xnmCLckHa40k4Jw=
 github.com/steve-care-software/libs v0.0.0-20230312132714-485fdb38680d h1:LfO9I0ZWhA5XpfX0HTym2DCNmnjE4prtyaOi65Dy/jA=
